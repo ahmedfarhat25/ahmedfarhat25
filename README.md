@@ -8,7 +8,7 @@ Always learning and striving to improve!
 - 📫 How to reach me: ahmedfarhat25@gmail.com
 
 ## Connect with me:
-[![Twitter](https://img.shields.io/twitter/follow/ahmed?style=social)](https://twitter.com/ahmedfarhat25)
+[![Twitter](https://img.shields.io/twitter/follow/ahmed?style=social)](https://x.com/Ahmedd_farhat)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ahmedfarhat)
 
 ## Competitive Programming Profiles:
