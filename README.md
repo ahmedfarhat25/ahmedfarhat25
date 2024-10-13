@@ -9,7 +9,7 @@ Always learning and striving to improve!
 
 ## Connect with me:
 [![Twitter](https://img.shields.io/twitter/follow/ahmed?style=social)](https://x.com/Ahmedd_farhat)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ahmedfarhat)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-farhat-sayed-92a820253/)
 
 ## Competitive Programming Profiles:
 [![Codeforces](https://img.shields.io/badge/Codeforces-555555?style=flat-square&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Ahmed-Farhat)
