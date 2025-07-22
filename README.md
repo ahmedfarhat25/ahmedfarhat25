@@ -5,7 +5,7 @@ Always learning and striving to improve!
 - 🌱 I’m currently learning **Java** and focusing on **competitive programming** challenges.
 - 👯 I’m open to collaborate on **Java** and **C++** projects.
 - 🤔 I’m looking for help with more advanced **backend development** projects.
-- 📫 How to reach me: ahmedfarhat25@gmail.com
+- 📫 How to reach me: ahmedfarhatsayed2@gmail.com
 
 ## Connect with me:
 [![Twitter](https://img.shields.io/twitter/follow/ahmed?style=social)](https://x.com/Ahmedd_farhat)
