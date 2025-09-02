@@ -1,10 +1,5 @@
 # Hi 👋, I'm Ahmed Farhat
-I am passionate about Software Development and competitive programming.  
-Always learning and striving to improve!
 
-- 🌱 I’m currently learning **Java** and focusing on **competitive programming** challenges.
-- 👯 I’m open to collaborate on **Java** and **C++** projects.
-- 🤔 I’m looking for help with more advanced **backend development** projects.
 - 📫 How to reach me: ahmedfarhatsayed2@gmail.com
 
 ## Connect with me:
